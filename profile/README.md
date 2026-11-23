@@ -6,3 +6,4 @@ FS&IBT maintains the following open-source codebases:
 * [PyMCNP](https://github.com/FSIBT/PyMCNP)
 * [hardware-control](https://github.com/FSIBT/hardware-contorl)
 * [pypixie16](https://github.com/FSIBT/pypixie16)
+* [pysrim 2](https://github.com/FSIBT/pysrim2)
