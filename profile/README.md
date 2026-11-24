@@ -5,5 +5,6 @@ The Fusion Science and Ion Beam Technology (FS&IBT) Program develops particle be
 FS&IBT maintains the following open-source codebases:
 * [PyMCNP](https://github.com/FSIBT/PyMCNP)
 * [hardware-control](https://github.com/FSIBT/hardware-contorl)
+* [mcstudio](https://github.com/FSIBT/mcstudio)
 * [pypixie16](https://github.com/FSIBT/pypixie16)
 * [pysrim 2](https://github.com/FSIBT/pysrim2)
